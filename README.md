@@ -1,6 +1,12 @@
 # aleo_workshop_complaint_token
 The smart contract is a compliant token contract built on the Aleo blockchain. It is designed to ensure that token transfers adhere to regulatory and security standards, such as KYC (Know Your Customer) verification, spending limits, and jurisdictional restrictions.
 
+# DEPLOYMENT ID
+Deployment ID: 
+at1yxss7myfcn6jq9usrf3e38g692en8z46d68kd0w5eg8pmnlkwgys577epj
+
+Deployment URL: https://testnet.aleo.info/program/elexy_complaint_token.aleo
+
 # Key Features and Functionalities
 1. Token Registration & Minting
 
